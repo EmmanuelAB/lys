@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layouts>
+  <layout name="root">
+    <row>
+      <button type="tag" label="X"/>
+      <button type="tag" label="Y"/>
+      <button type="tag" label="Z"/>
+    </row>
+  </layout>
+</layouts>
